@@ -20,7 +20,7 @@
     <com.dirtyunicorns.tweaks.preferences.SystemSettingSwitchPreference
         android:key="battery_light_enabled"
         android:title="@string/battery_light_enable"
-        android:persistent="false"/>
+        android:persistent="true"/>
 
     <PreferenceCategory
         android:key="general_section"
