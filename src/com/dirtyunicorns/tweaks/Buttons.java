@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package org.aospextended.extensions;
+package com.dirtyunicorns.tweaks;
 
 import android.app.ActivityManagerNative;
 import android.content.Context;
