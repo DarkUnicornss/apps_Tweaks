@@ -135,7 +135,6 @@
     <!-- Quick settings -->
     <string name="qs_layout_category">Layout</string>
     <string name="qs_columns_title">Columns</string>
-    <string name="qs_tile_title_visibility_title">Tile titles</string>
     <string name="qs_tile_title_visibility_summary">Show titles underneath quick settings tiles</string>
 
     <!-- Clear all recents -->
@@ -168,15 +167,11 @@
 
     <!-- Status bar ticker -->
     <string name="ticker_mode_title">Allow notification ticker</string>
-    <string name="ticker_disabled">Disabled</string>
-    <string name="ticker_enabled">Notification ticker</string>
-    <string name="ticker_media_enabled">Notification and music ticker</string>
 
     <!-- Notification light dialogs -->
     <string name="ok">Okay</string>
     <string name="reset">Reset</string>
     <string name="advanced">Advanced</string>
-    <string name="profiles_add">Add...</string>
     <string name="edit_light_settings">Edit light settings</string>
     <string name="pulse_speed_title">Pulse length and speed</string>
     <string name="default_time">Normal</string>
@@ -532,9 +527,6 @@
     <string name="recents_grid">Grid</string>
 
     <!-- Slim DSLV -->
-    <string name="shortcut_action_none">None</string>
-    <string name="shortcut_action_longpress">Longpress:</string>
-    <string name="shortcut_action_select_action_longpress">Choose longpress action:</string>
     <string name="shortcut_action_select_action">Choose action:</string>
     <string name="shortcut_action_select_action_newaction">Choose new action:</string>
     <string name="shortcut_action_reset">Reset</string>
@@ -656,8 +648,6 @@
 
     <string name="shortcut_action_longpress">Longpress:</string>
     <string name="shortcut_action_select_action_longpress">Choose longpress action:</string>
-    <string name="shortcut_action_select_action">Choose action:</string>
-    <string name="shortcut_action_select_action_newaction">Choose new action:</string>
     <string name="shortcut_action_reset">Reset</string>
     <string name="shortcut_action_add">Add</string>
     <string name="shortcut_action_reset_message">Reset all entries to default?</string>
